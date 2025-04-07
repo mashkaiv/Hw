@@ -1,0 +1,26 @@
+body {
+    font-size: 24px;
+}
+.green {
+    color: red;
+}
+.red {
+    color: green;
+}
+.blue {
+    color: black;
+}
+li.green {
+    color: black;
+}
+li.red {
+    color: green;
+}
+li.blue {
+    color: red;
+}
+ul ol li.red {
+    color: blue;
+}
+
+
